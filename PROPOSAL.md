@@ -6,7 +6,7 @@ Among the most common and destabilizing mental health disorders, anxiety disorde
 
 The method used in this study will be Python to process the DASS dataset (~39,000 responses) which contains scores on depression, stress, and anxiety items, as well as demographic characteristics. After preprocessing the data (cleaning, coding, filtering), we will train predictive models such as logistic regression, decision trees, or random forests to estimate anxiety levels based on other variables. The main objective then will be to identify characteristics such as: age, sex, other symptoms of stress/depression, which best predict a high anxiety score.
 
-The results will be presented in a notebook containing visualizations like, score distributions, feature importance graphs. And model avaluation metrics like : accuracy, F1 score. Finally, if time permits, there would be the possibility to explore additional models or add interpretation tools such as SHAP to better understand the model’s decisions.
+The results will be presented in a notebook containing visualizations like, score distributions, feature importance graphs. And model evaluation metrics like : accuracy, F1 score. Finally, if time permits, there would be the possibility to explore additional models or add interpretation tools such as SHAP to better understand the model’s decisions.
 
 The study's challenges include managing missing values, balancing class distributions, and responsibly interpreting the results. This can be remedied by using thorough data cleaning and validation techniques.
 
